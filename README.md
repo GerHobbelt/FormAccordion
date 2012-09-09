@@ -40,7 +40,7 @@ $('#example-1').formAccordion(
 
 ## Options
 
-Form Accordion can take an optional paramater - an object of key/value options:
+Form Accordion can take an optional paramater – an object of key/value options:
 
 * **`auto`** Boolean - Specifies whether or not to automatically apply behaivours to all form rows using default conditions (such as `if input is not empty`).
 * **`rows`** Object - Objects representing rows in the form. Key is the index of the row you want to target, value is the object of options for this row (see example).
